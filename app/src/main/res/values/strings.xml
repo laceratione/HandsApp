@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HandsApp</string>
+    <string name="title_app_bar">Клеточное наполнение</string>
+    <string name="btn_create">Сотворить</string>
+    <string name="cell_title_dead">Мертвая</string>
+    <string name="cell_subtitle_dead">или прикидывается</string>
+    <string name="cell_title_live">Живая</string>
+    <string name="cell_subtitle_live">и шевелится!</string>
+    <string name="cell_subtitle_newlife">Ку-ку!</string>
+    <string name="cell_title_newlife">Жизнь</string>
+</resources>
